@@ -17,7 +17,7 @@ Before running this project, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/diabetes-prediction.git
+git clone https://github.com/Sayandeep1236/Diabetes-Prediction-Application.git
 ```
 
 2. Navigate to the project directory
